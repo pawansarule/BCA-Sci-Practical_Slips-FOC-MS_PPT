@@ -4,7 +4,6 @@ This repository contens the Practical slips solution of FY BCA(Sci) Sem-1 2019 C
 
 # Microsoft Power Point Presentation
 
-
 Q1. Use PowerPoint to create a slideshow entitled “Input Devices” Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual and audio effects.
 
 Q2. Use PowerPoint to create a slideshow entitled “Me!” Your presentation must contain at least two slides, should be eye-catching and have a creative use of visual effects. Your slides should also be edited for correct use of spelling and grammar.
