@@ -55,7 +55,7 @@ Q12. Prepare PowerPoint presentation to give information about computer.
 
 Q13. Use PowerPoint to create a slideshow entitled “Social Media”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
-Q14. Use PowerPoint to create a slideshow entitled “Unity in diversity”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects. 
+Q14. Use PowerPoint to create a slideshow entitled “Unity in Diversity”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects. 
 
 Q15. Use PowerPoint to create a slideshow entitled “Air Pollution”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
