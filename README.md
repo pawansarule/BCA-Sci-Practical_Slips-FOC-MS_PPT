@@ -67,7 +67,7 @@ Q18. Use PowerPoint to create a slideshow entitled “Indoor Games”. Your pres
 
 Q19. Use PowerPoint to create a slideshow entitled “Rural Life and Urban Life”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
-Q20. Use PowerPoint to create a slideshow for explaining about “Block diagram of Computer”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects
+Q20. Use PowerPoint to create a slideshow for explaining about “Block Diagram of Computer”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects
 
 Q21. Use PowerPoint to create a slideshow entitled “Ganpati Festival”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
