@@ -39,8 +39,6 @@ Q10. Create a PowerPoint slide show on “Swatch Bharat Mission” with the cont
 
 ➢ Graphics that can enhance your presentation may also be inserted. You can replace standard bullet symbols with other graphics. 
 
-➢ Add animation effects to the bullet items. 
-
 ➢ Add transition effects.
 
 Q11. Create a PowerPoint slide show on BCA (Science) Course information. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
