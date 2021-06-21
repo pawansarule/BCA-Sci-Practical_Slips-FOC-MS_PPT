@@ -19,7 +19,7 @@ Q4. Use PowerPoint to create a slideshow on “Save Water”. Your presentation 
 
 Q5. Use PowerPoint to create a slideshow on marking of newly launched “iPhone”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
-Q6. Use PowerPoint to create a slideshow on “ Independence Day”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
+Q6. Use PowerPoint to create a slideshow on “Independence Day”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
 Q7. Prepare PowerPoint presentation for “Diwali Festival”. Your presentation must contain at least three slides, should be eye-catching and have a creative use of visual effects.
 
